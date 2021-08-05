@@ -22,13 +22,13 @@
 ##
 
 <div>
-<a href="https://www.youtube.com/channel/UCGR0X4w2yfYuBJLAruiI4Eg" target="_blank">
+<a href="https://www.youtube.com/channel/UCGR0X4w2yfYuBJLAruiI4Eg" target="__blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/richardson.csc/" target="_blank">
+<a href="https://www.instagram.com/richardson.csc/" target="__blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.twitch.tv/chrisouza" target="_blank">
+<a href="https://www.twitch.tv/chrisouza" target="__blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 <a href="mailto:rizinhof5@gmail.com">
